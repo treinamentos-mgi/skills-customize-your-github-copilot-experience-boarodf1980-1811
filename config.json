@@ -65,6 +65,20 @@
       "description": "Creating REST APIs with FastAPI: routes, parameters, validation, and error handling",
       "path": "assignments/building-rest-apis-fastapi",
       "dueDate": "2026-11-25"
+    },
+    {
+      "id": "unit-testing-unittest",
+      "title": "Testing Code with unittest",
+      "description": "Escrevendo testes automatizados com unittest para verificar funções",
+      "path": "assignments/unit-testing-unittest",
+      "dueDate": "2026-11-25",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
